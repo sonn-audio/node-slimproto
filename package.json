@@ -1,6 +1,6 @@
 {
-  "name": "@lox-audioserver/node-slimproto",
-  "version": "0.1.2",
+  "name": "@sonn-audio/node-slimproto",
+  "version": "0.1.3",
   "description": "SlimProto server/client utilities for controlling Squeezebox-compatible players in Node.js.",
   "type": "module",
   "main": "dist/index.js",
